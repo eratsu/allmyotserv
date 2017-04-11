@@ -1,0 +1,10 @@
+[
+  {
+    "servername": "Original TFS 1.0",
+    "linkdownload": "https://github.com/otland/forgottenserver/archive/1.0.zip"
+  },
+  {
+    "servername": "Original TFS 1.1",
+    "linkdownload": "https://github.com/otland/forgottenserver/archive/1.1.zip"
+  }
+]
